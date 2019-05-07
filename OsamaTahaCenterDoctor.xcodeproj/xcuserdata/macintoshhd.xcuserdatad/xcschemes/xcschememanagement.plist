@@ -7,7 +7,12 @@
 		<key>OsamaTahaCenterDoctor.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>38</integer>
+		</dict>
+		<key>OsamaTahaCenterDoctor.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
 		</dict>
 	</dict>
 </dict>

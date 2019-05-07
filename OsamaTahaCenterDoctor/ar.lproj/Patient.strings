@@ -1,0 +1,108 @@
+/* Class = "UILabel"; text = "DRName"; ObjectID = "1ne-oK-WzV"; */
+"1ne-oK-WzV.text" = "اسم الدكتور";
+
+/* Class = "UIButton"; normalTitle = "Check visit data here > "; ObjectID = "1vt-hs-zt3"; */
+"1vt-hs-zt3.normalTitle" = "تحقق من معلومات الزياره هنا";
+
+/* Class = "UILabel"; text = "Patient Name Here"; ObjectID = "3xL-Ht-0tw"; */
+"3xL-Ht-0tw.text" = "اسم المريض هنا";
+
+/* Class = "UILabel"; text = "Patient Medical Records"; ObjectID = "4T3-Hm-DeD"; */
+"4T3-Hm-DeD.text" = "سجلات طبيه للمريض";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "4xY-xv-Ic2"; */
+"4xY-xv-Ic2.text" = "200";
+
+/* Class = "UITabBarItem"; title = "Patients"; ObjectID = "5LP-4U-fen"; */
+"5LP-4U-fen.title" = "المرضي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Oe-5e-Czu"; */
+"5Oe-5e-Czu.text" = "Label";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "5Q8-ZJ-d9c"; */
+"5Q8-ZJ-d9c.text" = "الحاله";
+
+/* Class = "UIButton"; normalTitle = "  Download File  "; ObjectID = "5XP-Tb-z67"; */
+"5XP-Tb-z67.normalTitle" = "  حمل المجلد  ";
+
+/* Class = "UILabel"; text = "CenterName"; ObjectID = "aie-3k-kXp"; */
+"aie-3k-kXp.text" = "اسم المركز";
+
+/* Class = "UILabel"; text = "Visit data"; ObjectID = "BaT-B3-wtH"; */
+"BaT-B3-wtH.text" = "معلومات الزياره";
+
+/* Class = "UILabel"; text = "Visit number\n"; ObjectID = "bcR-le-wi0"; */
+"bcR-le-wi0.text" = "رقم الزياره\n";
+
+/* Class = "UITextView"; text = "qweqwesdfsdfds"; ObjectID = "bNq-GV-uBU"; */
+"bNq-GV-uBU.text" = "qweqwesdfsdfds";
+
+/* Class = "UILabel"; text = "My Patients"; ObjectID = "C9C-BP-qaJ"; */
+"C9C-BP-qaJ.text" = "المرضي";
+
+/* Class = "UIButton"; normalTitle = "send message"; ObjectID = "cbK-So-X7C"; */
+"cbK-So-X7C.normalTitle" = "ارسل رساله";
+
+/* Class = "UILabel"; text = "1245863"; ObjectID = "EcF-Ip-K31"; */
+"EcF-Ip-K31.text" = "1245863";
+
+/* Class = "UIButton"; normalTitle = " Download File "; ObjectID = "FXT-pu-D4N"; */
+"FXT-pu-D4N.normalTitle" = " حمل المجلد ";
+
+/* Class = "UIBarButtonItem"; title = "          "; ObjectID = "h1x-jx-c0L"; */
+"h1x-jx-c0L.title" = "          ";
+
+/* Class = "UILabel"; text = "Monday 24 December "; ObjectID = "HSs-RL-FL9"; */
+"HSs-RL-FL9.text" = "Monday 24 December ";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "I6T-bh-1tt"; */
+"I6T-bh-1tt.text" = "200";
+
+/* Class = "UIButton"; normalTitle = "PUSH NOTIFCATION"; ObjectID = "Iey-3f-qVE"; */
+"Iey-3f-qVE.normalTitle" = " ارسل اشعار";
+
+/* Class = "UILabel"; text = "01:00 PM   To   03:00 PM"; ObjectID = "ihT-pD-9rQ"; */
+"ihT-pD-9rQ.text" = "01:00 PM   To   03:00 PM";
+
+/* Class = "UILabel"; text = "Date & Time\n"; ObjectID = "J3P-Fz-CA8"; */
+"J3P-Fz-CA8.text" = "التاريخ والوقت";
+
+/* Class = "UILabel"; text = "New Cairo, 5th Settlement,"; ObjectID = "K3k-xE-yCn"; */
+"K3k-xE-yCn.text" = "New Cairo, 5th Settlement,";
+
+/* Class = "UILabel"; text = "Satarday 15  December "; ObjectID = "kdy-X8-pqx"; */
+"kdy-X8-pqx.text" = "Satarday 15  December ";
+
+/* Class = "UILabel"; text = "24 Dec 2018"; ObjectID = "MUj-XO-T1D"; */
+"MUj-XO-T1D.text" = "24 Dec 2018";
+
+/* Class = "UILabel"; text = "Date of visit\n"; ObjectID = "N0t-Ua-5Is"; */
+"N0t-Ua-5Is.text" = "تاريخ الزياره";
+
+/* Class = "UILabel"; text = "Medical file num\n"; ObjectID = "Nzz-8O-eqC"; */
+"Nzz-8O-eqC.text" = "رقم المجلد الطبي\n";
+
+/* Class = "UILabel"; text = "Patient Name Here"; ObjectID = "ppA-Fa-KPt"; */
+"ppA-Fa-KPt.text" = "اسم المريض هنا";
+
+/* Class = "UIButton"; normalTitle = "View Profile  "; ObjectID = "t5T-w6-1dy"; */
+"t5T-w6-1dy.normalTitle" = "عرض الصفحه الشخصيه  ";
+
+/* Class = "UILabel"; text = "Uploading.........."; ObjectID = "uAT-Pg-B2e"; */
+"uAT-Pg-B2e.text" = "تحميل ";
+
+/* Class = "UILabel"; text = "Adjustable gastric band"; ObjectID = "wUb-va-roH"; */
+"wUb-va-roH.text" = "Adjustable gastric band";
+
+/* Class = "UILabel"; text = "Patient Operation Subscribe"; ObjectID = "WxJ-fz-b5B"; */
+"WxJ-fz-b5B.text" = "العمليات المسجله للمريض";
+
+/* Class = "UILabel"; text = "send meesage"; ObjectID = "XrZ-a1-7p9"; */
+"XrZ-a1-7p9.text" = "ارسل رساله";
+
+/* Class = "UIBarButtonItem"; title = "        "; ObjectID = "zsK-RT-Rdi"; */
+"zsK-RT-Rdi.title" = "        ";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "Zxa-c0-tnU"; */
+"Zxa-c0-tnU.text" = "تاريخ";
+

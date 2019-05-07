@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A674330058A9E3795F1BCCF /* Pods_OsamaTahaCenterDoctorUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F23F1A54C4554B67E37D399 /* Pods_OsamaTahaCenterDoctorUITests.framework */; };
+		0E01E7B32248E7D900EC14B0 /* PatientInboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E01E7B22248E7D900EC14B0 /* PatientInboxViewController.swift */; };
+		0E01E7B52248E98500EC14B0 /* inboxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E01E7B42248E98500EC14B0 /* inboxCell.swift */; };
+		0E01E7B72248EE7300EC14B0 /* PatientInboxModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E01E7B62248EE7300EC14B0 /* PatientInboxModel.swift */; };
+		0E111CCA2240FD69005CA724 /* ChatCellImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E111CC92240FD69005CA724 /* ChatCellImage.swift */; };
+		0E151324222E8F3D00C8141C /* ViewPatientProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E151323222E8F3D00C8141C /* ViewPatientProfileViewController.swift */; };
+		0E151326222E995700C8141C /* MyAppoinmentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E151325222E995700C8141C /* MyAppoinmentCell.swift */; };
+		0E151328222EA5F400C8141C /* MedicalRecordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E151327222EA5F400C8141C /* MedicalRecordsViewController.swift */; };
+		0E15132A222EB05B00C8141C /* MedicalRecordsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E151329222EB05B00C8141C /* MedicalRecordsCell.swift */; };
+		0E1629A822391D5100183F61 /* patientAppointment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1629A722391D5100183F61 /* patientAppointment.swift */; };
+		0E1629AA223927D500183F61 /* patientVistis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1629A9223927D500183F61 /* patientVistis.swift */; };
+		0E1629AC2239325700183F61 /* ListOfPdfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1629AB2239325700183F61 /* ListOfPdfList.swift */; };
+		0E1F0F28225A296800707940 /* odooAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1F0F27225A296800707940 /* odooAPI.swift */; };
+		0E25A77F222D2195008703C3 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A77E222D2195008703C3 /* TabBarController.swift */; };
+		0E25A781222D268B008703C3 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A780222D268B008703C3 /* MoreViewController.swift */; };
+		0E25A786222D276A008703C3 /* MoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A785222D276A008703C3 /* MoreTableViewCell.swift */; };
+		0E25A78E222D2C27008703C3 /* More.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E25A78C222D2C27008703C3 /* More.storyboard */; };
+		0E25A793222D2E04008703C3 /* ChatWithDROsama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A792222D2E04008703C3 /* ChatWithDROsama.swift */; };
+		0E25A795222D2E41008703C3 /* ChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A794222D2E41008703C3 /* ChatCell.swift */; };
+		0E25A797222D3B04008703C3 /* LiveChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A796222D3B04008703C3 /* LiveChatViewController.swift */; };
+		0E25A799222D3B5F008703C3 /* LiveChatCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A798222D3B5F008703C3 /* LiveChatCell.swift */; };
+		0E25A79B222D3CDD008703C3 /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A79A222D3CDD008703C3 /* ContactUsViewController.swift */; };
+		0E25A79D222D3E78008703C3 /* SendUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A79C222D3E78008703C3 /* SendUsViewController.swift */; };
+		0E25A79F222D404C008703C3 /* AboutAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A79E222D404C008703C3 /* AboutAppViewController.swift */; };
+		0E25A7A1222D4134008703C3 /* ChangeLanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A7A0222D4134008703C3 /* ChangeLanguageViewController.swift */; };
+		0E25A7A4222D4B04008703C3 /* Patient.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E25A7A2222D4B04008703C3 /* Patient.storyboard */; };
+		0E25A7A7222D4B64008703C3 /* PatientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A7A6222D4B64008703C3 /* PatientViewController.swift */; };
+		0E25A7A9222D5B94008703C3 /* PatientCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E25A7A8222D5B94008703C3 /* PatientCell.swift */; };
+		0E43BD5B223E51A000D28D42 /* ChatWithPatient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E43BD5A223E51A000D28D42 /* ChatWithPatient.swift */; };
+		0E43BD5D223E58DB00D28D42 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0E43BD5C223E58DB00D28D42 /* GoogleService-Info.plist */; };
+		0E43BD5F223E633F00D28D42 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E43BD5E223E633F00D28D42 /* Message.swift */; };
+		0E759AE1224A708C00E08ABD /* PatientInboxGroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E759AE0224A708C00E08ABD /* PatientInboxGroupViewController.swift */; };
+		0E759AE3224A7C8C00E08ABD /* ChatwithPatientInGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E759AE2224A7C8C00E08ABD /* ChatwithPatientInGroup.swift */; };
 		0E80C6A4222C0B220098B65D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6A3222C0B220098B65D /* AppDelegate.swift */; };
 		0E80C6A6222C0B220098B65D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6A5222C0B220098B65D /* ViewController.swift */; };
 		0E80C6A9222C0B220098B65D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E80C6A7222C0B220098B65D /* Main.storyboard */; };
@@ -15,6 +48,32 @@
 		0E80C6B1222C0B230098B65D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E80C6AF222C0B230098B65D /* LaunchScreen.storyboard */; };
 		0E80C6BC222C0B230098B65D /* OsamaTahaCenterDoctorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6BB222C0B230098B65D /* OsamaTahaCenterDoctorTests.swift */; };
 		0E80C6C7222C0B230098B65D /* OsamaTahaCenterDoctorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6C6222C0B230098B65D /* OsamaTahaCenterDoctorUITests.swift */; };
+		0E80C6D6222C13A00098B65D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6D5222C13A00098B65D /* LoginViewController.swift */; };
+		0E80C6D9222C14850098B65D /* textFileldService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6D8222C14850098B65D /* textFileldService.swift */; };
+		0E80C6DD222C155E0098B65D /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80C6DC222C155E0098B65D /* CustomView.swift */; };
+		0EA67357225CA6F4005ADC5E /* PatientOperationRecordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA67356225CA6F4005ADC5E /* PatientOperationRecordsViewController.swift */; };
+		0EA67359225CC012005ADC5E /* PatientOperationOdoo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA67358225CC012005ADC5E /* PatientOperationOdoo.swift */; };
+		0EA6735B225CCC04005ADC5E /* PatientOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA6735A225CCC04005ADC5E /* PatientOperation.swift */; };
+		0EB43774226C976300A61D90 /* pdfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB43773226C976300A61D90 /* pdfList.swift */; };
+		0EB43776226CAFE400A61D90 /* PDFListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB43775226CAFE400A61D90 /* PDFListCell.swift */; };
+		0EB43778226CB3DB00A61D90 /* DisplayPdfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EB43777226CB3DB00A61D90 /* DisplayPdfViewController.swift */; };
+		0EBC78782237E5E800E6CB73 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBC78772237E5E800E6CB73 /* Api.swift */; };
+		0EBC787A2237E64200E6CB73 /* URLS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBC78792237E64200E6CB73 /* URLS.swift */; };
+		0EBC787C2237EBCB00E6CB73 /* helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBC787B2237EBCB00E6CB73 /* helper.swift */; };
+		0EBC787F2237F1C100E6CB73 /* Patient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBC787E2237F1C100E6CB73 /* Patient.swift */; };
+		0EBE7348226364E800C2A24F /* audioCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBE7347226364E800C2A24F /* audioCell.swift */; };
+		0ECF91B2222FC54900DB73F1 /* CustomImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF91B1222FC54900DB73F1 /* CustomImageView.swift */; };
+		0ECF91B4222FC5AA00DB73F1 /* MyProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF91B3222FC5AA00DB73F1 /* MyProfileViewController.swift */; };
+		0ECF91B7222FDEA200DB73F1 /* MyProfile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ECF91B5222FDEA200DB73F1 /* MyProfile.storyboard */; };
+		0ECF91B9222FDFB400DB73F1 /* MyProfileCellServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF91B8222FDFB400DB73F1 /* MyProfileCellServices.swift */; };
+		0ECF91BB222FE3EB00DB73F1 /* MyAppointmentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF91BA222FE3EB00DB73F1 /* MyAppointmentsViewController.swift */; };
+		0ED0FEA52242366500C43E57 /* ChatCellImageTRailing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0FEA42242366500C43E57 /* ChatCellImageTRailing.swift */; };
+		0ED0FEA72242412600C43E57 /* chatFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0FEA62242412600C43E57 /* chatFile.swift */; };
+		0ED0FEA92242467E00C43E57 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0FEA82242467E00C43E57 /* CustomButton.swift */; };
+		0ED0FEAB22425FF700C43E57 /* viewDownloadedPdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0FEAA22425FF700C43E57 /* viewDownloadedPdf.swift */; };
+		0EDE82CB224A40F80046DCB2 /* LiveChatModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDE82CA224A40F80046DCB2 /* LiveChatModel.swift */; };
+		509DDB97AA28F1EA387EF24E /* Pods_OsamaTahaCenterDoctor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F9230ED0007335CF8BB49FE /* Pods_OsamaTahaCenterDoctor.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		8FB1F941A82967E4FA13D6F9 /* Pods_OsamaTahaCenterDoctorTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CBC9E177EE9FB61AF22CB75 /* Pods_OsamaTahaCenterDoctorTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +94,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E01E7B22248E7D900EC14B0 /* PatientInboxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientInboxViewController.swift; sourceTree = "<group>"; };
+		0E01E7B42248E98500EC14B0 /* inboxCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inboxCell.swift; sourceTree = "<group>"; };
+		0E01E7B62248EE7300EC14B0 /* PatientInboxModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientInboxModel.swift; sourceTree = "<group>"; };
+		0E111CC92240FD69005CA724 /* ChatCellImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCellImage.swift; sourceTree = "<group>"; };
+		0E151323222E8F3D00C8141C /* ViewPatientProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPatientProfileViewController.swift; sourceTree = "<group>"; };
+		0E151325222E995700C8141C /* MyAppoinmentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppoinmentCell.swift; sourceTree = "<group>"; };
+		0E151327222EA5F400C8141C /* MedicalRecordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicalRecordsViewController.swift; sourceTree = "<group>"; };
+		0E151329222EB05B00C8141C /* MedicalRecordsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicalRecordsCell.swift; sourceTree = "<group>"; };
+		0E1629A722391D5100183F61 /* patientAppointment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = patientAppointment.swift; sourceTree = "<group>"; };
+		0E1629A9223927D500183F61 /* patientVistis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = patientVistis.swift; sourceTree = "<group>"; };
+		0E1629AB2239325700183F61 /* ListOfPdfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListOfPdfList.swift; sourceTree = "<group>"; };
+		0E1F0F27225A296800707940 /* odooAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = odooAPI.swift; sourceTree = "<group>"; };
+		0E25A77E222D2195008703C3 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		0E25A780222D268B008703C3 /* MoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		0E25A785222D276A008703C3 /* MoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTableViewCell.swift; sourceTree = "<group>"; };
+		0E25A78D222D2C27008703C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = OsamaTahaCenterDoctor/Base.lproj/More.storyboard; sourceTree = "<group>"; };
+		0E25A792222D2E04008703C3 /* ChatWithDROsama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatWithDROsama.swift; sourceTree = "<group>"; };
+		0E25A794222D2E41008703C3 /* ChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCell.swift; sourceTree = "<group>"; };
+		0E25A796222D3B04008703C3 /* LiveChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveChatViewController.swift; sourceTree = "<group>"; };
+		0E25A798222D3B5F008703C3 /* LiveChatCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveChatCell.swift; sourceTree = "<group>"; };
+		0E25A79A222D3CDD008703C3 /* ContactUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
+		0E25A79C222D3E78008703C3 /* SendUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendUsViewController.swift; sourceTree = "<group>"; };
+		0E25A79E222D404C008703C3 /* AboutAppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAppViewController.swift; sourceTree = "<group>"; };
+		0E25A7A0222D4134008703C3 /* ChangeLanguageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeLanguageViewController.swift; sourceTree = "<group>"; };
+		0E25A7A3222D4B04008703C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = OsamaTahaCenterDoctor/Base.lproj/Patient.storyboard; sourceTree = "<group>"; };
+		0E25A7A6222D4B64008703C3 /* PatientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientViewController.swift; sourceTree = "<group>"; };
+		0E25A7A8222D5B94008703C3 /* PatientCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientCell.swift; sourceTree = "<group>"; };
+		0E43BD5A223E51A000D28D42 /* ChatWithPatient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatWithPatient.swift; sourceTree = "<group>"; };
+		0E43BD5C223E58DB00D28D42 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0E43BD5E223E633F00D28D42 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		0E759AE0224A708C00E08ABD /* PatientInboxGroupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientInboxGroupViewController.swift; sourceTree = "<group>"; };
+		0E759AE2224A7C8C00E08ABD /* ChatwithPatientInGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatwithPatientInGroup.swift; sourceTree = "<group>"; };
 		0E80C6A0222C0B220098B65D /* OsamaTahaCenterDoctor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OsamaTahaCenterDoctor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E80C6A3222C0B220098B65D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0E80C6A5222C0B220098B65D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +140,44 @@
 		0E80C6C2222C0B230098B65D /* OsamaTahaCenterDoctorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OsamaTahaCenterDoctorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E80C6C6222C0B230098B65D /* OsamaTahaCenterDoctorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OsamaTahaCenterDoctorUITests.swift; sourceTree = "<group>"; };
 		0E80C6C8222C0B230098B65D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E80C6D5222C13A00098B65D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0E80C6D8222C14850098B65D /* textFileldService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = textFileldService.swift; sourceTree = "<group>"; };
+		0E80C6DC222C155E0098B65D /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		0EA67356225CA6F4005ADC5E /* PatientOperationRecordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientOperationRecordsViewController.swift; sourceTree = "<group>"; };
+		0EA67358225CC012005ADC5E /* PatientOperationOdoo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientOperationOdoo.swift; sourceTree = "<group>"; };
+		0EA6735A225CCC04005ADC5E /* PatientOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientOperation.swift; sourceTree = "<group>"; };
+		0EB43773226C976300A61D90 /* pdfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pdfList.swift; sourceTree = "<group>"; };
+		0EB43775226CAFE400A61D90 /* PDFListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFListCell.swift; sourceTree = "<group>"; };
+		0EB43777226CB3DB00A61D90 /* DisplayPdfViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayPdfViewController.swift; sourceTree = "<group>"; };
+		0EBC78772237E5E800E6CB73 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
+		0EBC78792237E64200E6CB73 /* URLS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLS.swift; sourceTree = "<group>"; };
+		0EBC787B2237EBCB00E6CB73 /* helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helper.swift; sourceTree = "<group>"; };
+		0EBC787E2237F1C100E6CB73 /* Patient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patient.swift; sourceTree = "<group>"; };
+		0EBE7347226364E800C2A24F /* audioCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = audioCell.swift; sourceTree = "<group>"; };
+		0EC2FEE92254D47A000B1ABE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = OsamaTahaCenterDoctor/ar.lproj/Patient.strings; sourceTree = "<group>"; };
+		0EC2FEEA2254D47C000B1ABE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = OsamaTahaCenterDoctor/Controller/ar.lproj/MyProfile.strings; sourceTree = "<group>"; };
+		0EC2FEEB2254D47D000B1ABE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = OsamaTahaCenterDoctor/ar.lproj/More.strings; sourceTree = "<group>"; };
+		0EC2FEEC2254D47F000B1ABE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		0EC2FEED2254D480000B1ABE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		0ECF91B1222FC54900DB73F1 /* CustomImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomImageView.swift; sourceTree = "<group>"; };
+		0ECF91B3222FC5AA00DB73F1 /* MyProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileViewController.swift; sourceTree = "<group>"; };
+		0ECF91B6222FDEA200DB73F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = OsamaTahaCenterDoctor/Controller/Base.lproj/MyProfile.storyboard; sourceTree = "<group>"; };
+		0ECF91B8222FDFB400DB73F1 /* MyProfileCellServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileCellServices.swift; sourceTree = "<group>"; };
+		0ECF91BA222FE3EB00DB73F1 /* MyAppointmentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppointmentsViewController.swift; sourceTree = "<group>"; };
+		0ED0FEA42242366500C43E57 /* ChatCellImageTRailing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatCellImageTRailing.swift; sourceTree = "<group>"; };
+		0ED0FEA62242412600C43E57 /* chatFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatFile.swift; sourceTree = "<group>"; };
+		0ED0FEA82242467E00C43E57 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		0ED0FEAA22425FF700C43E57 /* viewDownloadedPdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewDownloadedPdf.swift; sourceTree = "<group>"; };
+		0EDE82CA224A40F80046DCB2 /* LiveChatModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveChatModel.swift; sourceTree = "<group>"; };
+		1002A54A6B26A646B5FFB56B /* Pods-OsamaTahaCenterDoctorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctorTests.release.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctorTests/Pods-OsamaTahaCenterDoctorTests.release.xcconfig"; sourceTree = "<group>"; };
+		1CBC9E177EE9FB61AF22CB75 /* Pods_OsamaTahaCenterDoctorTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OsamaTahaCenterDoctorTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FAB2A72052D8ECFD665C89C /* Pods-OsamaTahaCenterDoctor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctor.release.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctor/Pods-OsamaTahaCenterDoctor.release.xcconfig"; sourceTree = "<group>"; };
+		5F23F1A54C4554B67E37D399 /* Pods_OsamaTahaCenterDoctorUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OsamaTahaCenterDoctorUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		62FAF4AE879F71C6D3900475 /* Pods-OsamaTahaCenterDoctorUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctorUITests.release.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctorUITests/Pods-OsamaTahaCenterDoctorUITests.release.xcconfig"; sourceTree = "<group>"; };
+		9F9230ED0007335CF8BB49FE /* Pods_OsamaTahaCenterDoctor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OsamaTahaCenterDoctor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A19A6DFC6DEF70A71BDFF25C /* Pods-OsamaTahaCenterDoctorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctorTests.debug.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctorTests/Pods-OsamaTahaCenterDoctorTests.debug.xcconfig"; sourceTree = "<group>"; };
+		ED71D66D780A11506B66CF6D /* Pods-OsamaTahaCenterDoctor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctor.debug.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctor/Pods-OsamaTahaCenterDoctor.debug.xcconfig"; sourceTree = "<group>"; };
+		F2F762AD07E8816044B68872 /* Pods-OsamaTahaCenterDoctorUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OsamaTahaCenterDoctorUITests.debug.xcconfig"; path = "Target Support Files/Pods-OsamaTahaCenterDoctorUITests/Pods-OsamaTahaCenterDoctorUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +185,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				509DDB97AA28F1EA387EF24E /* Pods_OsamaTahaCenterDoctor.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +193,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FB1F941A82967E4FA13D6F9 /* Pods_OsamaTahaCenterDoctorTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,19 +201,88 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A674330058A9E3795F1BCCF /* Pods_OsamaTahaCenterDoctorUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0E25A77D222D2165008703C3 /* TabBarControllers */ = {
+			isa = PBXGroup;
+			children = (
+				0E25A780222D268B008703C3 /* MoreViewController.swift */,
+				0E25A77E222D2195008703C3 /* TabBarController.swift */,
+				0E25A7A6222D4B64008703C3 /* PatientViewController.swift */,
+				0ECF91B3222FC5AA00DB73F1 /* MyProfileViewController.swift */,
+				0ECF91BA222FE3EB00DB73F1 /* MyAppointmentsViewController.swift */,
+			);
+			path = TabBarControllers;
+			sourceTree = "<group>";
+		};
+		0E25A782222D2710008703C3 /* CustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				0E151329222EB05B00C8141C /* MedicalRecordsCell.swift */,
+				0E25A798222D3B5F008703C3 /* LiveChatCell.swift */,
+				0ECF91B8222FDFB400DB73F1 /* MyProfileCellServices.swift */,
+				0E25A785222D276A008703C3 /* MoreTableViewCell.swift */,
+				0E25A794222D2E41008703C3 /* ChatCell.swift */,
+				0E25A7A8222D5B94008703C3 /* PatientCell.swift */,
+				0E151325222E995700C8141C /* MyAppoinmentCell.swift */,
+				0E111CC92240FD69005CA724 /* ChatCellImage.swift */,
+				0ED0FEA42242366500C43E57 /* ChatCellImageTRailing.swift */,
+				0ED0FEA62242412600C43E57 /* chatFile.swift */,
+				0E01E7B42248E98500EC14B0 /* inboxCell.swift */,
+				0EA6735A225CCC04005ADC5E /* PatientOperation.swift */,
+				0EBE7347226364E800C2A24F /* audioCell.swift */,
+				0EB43775226CAFE400A61D90 /* PDFListCell.swift */,
+			);
+			path = CustomCell;
+			sourceTree = "<group>";
+		};
+		0E25A78F222D2D94008703C3 /* MoreViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				0E25A792222D2E04008703C3 /* ChatWithDROsama.swift */,
+				0E25A796222D3B04008703C3 /* LiveChatViewController.swift */,
+				0E25A79A222D3CDD008703C3 /* ContactUsViewController.swift */,
+				0E25A79C222D3E78008703C3 /* SendUsViewController.swift */,
+				0E25A79E222D404C008703C3 /* AboutAppViewController.swift */,
+				0E25A7A0222D4134008703C3 /* ChangeLanguageViewController.swift */,
+				0E01E7B22248E7D900EC14B0 /* PatientInboxViewController.swift */,
+				0E759AE0224A708C00E08ABD /* PatientInboxGroupViewController.swift */,
+				0E759AE2224A7C8C00E08ABD /* ChatwithPatientInGroup.swift */,
+			);
+			path = MoreViewControllers;
+			sourceTree = "<group>";
+		};
+		0E25A7A5222D4B1D008703C3 /* PatientViewController */ = {
+			isa = PBXGroup;
+			children = (
+				0E151323222E8F3D00C8141C /* ViewPatientProfileViewController.swift */,
+				0E151327222EA5F400C8141C /* MedicalRecordsViewController.swift */,
+				0E1629AB2239325700183F61 /* ListOfPdfList.swift */,
+				0E43BD5A223E51A000D28D42 /* ChatWithPatient.swift */,
+				0ED0FEAA22425FF700C43E57 /* viewDownloadedPdf.swift */,
+				0EA67356225CA6F4005ADC5E /* PatientOperationRecordsViewController.swift */,
+				0EB43777226CB3DB00A61D90 /* DisplayPdfViewController.swift */,
+			);
+			path = PatientViewController;
+			sourceTree = "<group>";
+		};
 		0E80C697222C0B220098B65D = {
 			isa = PBXGroup;
 			children = (
+				0E25A7A2222D4B04008703C3 /* Patient.storyboard */,
+				0ECF91B5222FDEA200DB73F1 /* MyProfile.storyboard */,
+				0E25A78C222D2C27008703C3 /* More.storyboard */,
 				0E80C6A2222C0B220098B65D /* OsamaTahaCenterDoctor */,
 				0E80C6BA222C0B230098B65D /* OsamaTahaCenterDoctorTests */,
 				0E80C6C5222C0B230098B65D /* OsamaTahaCenterDoctorUITests */,
 				0E80C6A1222C0B220098B65D /* Products */,
+				8D32A7BE427659A3558C56DF /* Pods */,
+				9DD5C4FBD55CDA0BB7D69F42 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,11 +299,18 @@
 		0E80C6A2222C0B220098B65D /* OsamaTahaCenterDoctor */ = {
 			isa = PBXGroup;
 			children = (
+				0E43BD5C223E58DB00D28D42 /* GoogleService-Info.plist */,
+				0EBC787D2237F19D00E6CB73 /* Model */,
+				0EBC78762237E5C900E6CB73 /* Config */,
+				0EBC78752237E5C000E6CB73 /* Api */,
+				0E80C6DA222C150F0098B65D /* View */,
+				0E80C6D7222C145B0098B65D /* Utilities */,
+				0E80C6D4222C13660098B65D /* Controller */,
 				0E80C6A3222C0B220098B65D /* AppDelegate.swift */,
 				0E80C6A5222C0B220098B65D /* ViewController.swift */,
-				0E80C6A7222C0B220098B65D /* Main.storyboard */,
 				0E80C6AD222C0B230098B65D /* Assets.xcassets */,
 				0E80C6AF222C0B230098B65D /* LaunchScreen.storyboard */,
+				0E80C6A7222C0B220098B65D /* Main.storyboard */,
 				0E80C6B2222C0B230098B65D /* Info.plist */,
 				0E80C6AA222C0B220098B65D /* OsamaTahaCenterDoctor.xcdatamodeld */,
 			);
@@ -128,6 +335,100 @@
 			path = OsamaTahaCenterDoctorUITests;
 			sourceTree = "<group>";
 		};
+		0E80C6D4222C13660098B65D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0E25A78F222D2D94008703C3 /* MoreViewControllers */,
+				0E25A7A5222D4B1D008703C3 /* PatientViewController */,
+				0E25A77D222D2165008703C3 /* TabBarControllers */,
+				0E80C6D5222C13A00098B65D /* LoginViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		0E80C6D7222C145B0098B65D /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				0E80C6D8222C14850098B65D /* textFileldService.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		0E80C6DA222C150F0098B65D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0E25A782222D2710008703C3 /* CustomCell */,
+				0E80C6DB222C15180098B65D /* CustomUIElement */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0E80C6DB222C15180098B65D /* CustomUIElement */ = {
+			isa = PBXGroup;
+			children = (
+				0E80C6DC222C155E0098B65D /* CustomView.swift */,
+				0ECF91B1222FC54900DB73F1 /* CustomImageView.swift */,
+				0ED0FEA82242467E00C43E57 /* CustomButton.swift */,
+			);
+			path = CustomUIElement;
+			sourceTree = "<group>";
+		};
+		0EBC78752237E5C000E6CB73 /* Api */ = {
+			isa = PBXGroup;
+			children = (
+				0EBC78772237E5E800E6CB73 /* Api.swift */,
+				0E1F0F27225A296800707940 /* odooAPI.swift */,
+			);
+			path = Api;
+			sourceTree = "<group>";
+		};
+		0EBC78762237E5C900E6CB73 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				0EBC78792237E64200E6CB73 /* URLS.swift */,
+				0EBC787B2237EBCB00E6CB73 /* helper.swift */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		0EBC787D2237F19D00E6CB73 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0EBC787E2237F1C100E6CB73 /* Patient.swift */,
+				0E1629A722391D5100183F61 /* patientAppointment.swift */,
+				0E1629A9223927D500183F61 /* patientVistis.swift */,
+				0E43BD5E223E633F00D28D42 /* Message.swift */,
+				0E01E7B62248EE7300EC14B0 /* PatientInboxModel.swift */,
+				0EDE82CA224A40F80046DCB2 /* LiveChatModel.swift */,
+				0EA67358225CC012005ADC5E /* PatientOperationOdoo.swift */,
+				0EB43773226C976300A61D90 /* pdfList.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8D32A7BE427659A3558C56DF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				ED71D66D780A11506B66CF6D /* Pods-OsamaTahaCenterDoctor.debug.xcconfig */,
+				4FAB2A72052D8ECFD665C89C /* Pods-OsamaTahaCenterDoctor.release.xcconfig */,
+				A19A6DFC6DEF70A71BDFF25C /* Pods-OsamaTahaCenterDoctorTests.debug.xcconfig */,
+				1002A54A6B26A646B5FFB56B /* Pods-OsamaTahaCenterDoctorTests.release.xcconfig */,
+				F2F762AD07E8816044B68872 /* Pods-OsamaTahaCenterDoctorUITests.debug.xcconfig */,
+				62FAF4AE879F71C6D3900475 /* Pods-OsamaTahaCenterDoctorUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		9DD5C4FBD55CDA0BB7D69F42 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9F9230ED0007335CF8BB49FE /* Pods_OsamaTahaCenterDoctor.framework */,
+				1CBC9E177EE9FB61AF22CB75 /* Pods_OsamaTahaCenterDoctorTests.framework */,
+				5F23F1A54C4554B67E37D399 /* Pods_OsamaTahaCenterDoctorUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +436,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0E80C6CB222C0B230098B65D /* Build configuration list for PBXNativeTarget "OsamaTahaCenterDoctor" */;
 			buildPhases = (
+				FE4D247AFCEB30F24E93C67B /* [CP] Check Pods Manifest.lock */,
 				0E80C69C222C0B220098B65D /* Sources */,
 				0E80C69D222C0B220098B65D /* Frameworks */,
 				0E80C69E222C0B220098B65D /* Resources */,
+				5A5193FA5ED967A9D407C062 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +455,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0E80C6CE222C0B230098B65D /* Build configuration list for PBXNativeTarget "OsamaTahaCenterDoctorTests" */;
 			buildPhases = (
+				8C8E7AE66D8A593BC01360C9 /* [CP] Check Pods Manifest.lock */,
 				0E80C6B3222C0B230098B65D /* Sources */,
 				0E80C6B4222C0B230098B65D /* Frameworks */,
 				0E80C6B5222C0B230098B65D /* Resources */,
@@ -170,6 +474,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0E80C6D1222C0B230098B65D /* Build configuration list for PBXNativeTarget "OsamaTahaCenterDoctorUITests" */;
 			buildPhases = (
+				790653180CCD2148204D87D3 /* [CP] Check Pods Manifest.lock */,
 				0E80C6BE222C0B230098B65D /* Sources */,
 				0E80C6BF222C0B230098B65D /* Frameworks */,
 				0E80C6C0222C0B230098B65D /* Resources */,
@@ -214,6 +519,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = 0E80C697222C0B220098B65D;
 			productRefGroup = 0E80C6A1222C0B220098B65D /* Products */;
@@ -233,8 +539,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E80C6B1222C0B230098B65D /* LaunchScreen.storyboard in Resources */,
+				0E25A7A4222D4B04008703C3 /* Patient.storyboard in Resources */,
+				0ECF91B7222FDEA200DB73F1 /* MyProfile.storyboard in Resources */,
+				0E25A78E222D2C27008703C3 /* More.storyboard in Resources */,
 				0E80C6AE222C0B230098B65D /* Assets.xcassets in Resources */,
 				0E80C6A9222C0B220098B65D /* Main.storyboard in Resources */,
+				0E43BD5D223E58DB00D28D42 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,13 +564,200 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5A5193FA5ED967A9D407C062 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-OsamaTahaCenterDoctor/Pods-OsamaTahaCenterDoctor-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AEXML/AEXML.framework",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireXMLRPC/AlamofireXMLRPC.framework",
+				"${BUILT_PRODUCTS_DIR}/AudioPlayerSwift/AudioPlayer.framework",
+				"${BUILT_PRODUCTS_DIR}/BoringSSL/openssl.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/MOLH/MOLH.framework",
+				"${BUILT_PRODUCTS_DIR}/MessageToolbar/MessageToolbar.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/SWXMLHash/SWXMLHash.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftAudio/SwiftAudio.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC/GRPCClient.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-C++/grpcpp.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-Core/grpc.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-ProtoRPC/ProtoRPC.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-RxLibrary/RxLibrary.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AEXML.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireXMLRPC.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AudioPlayer.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/openssl.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MOLH.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MessageToolbar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SWXMLHash.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftAudio.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GRPCClient.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/grpcpp.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/grpc.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ProtoRPC.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxLibrary.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OsamaTahaCenterDoctor/Pods-OsamaTahaCenterDoctor-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		790653180CCD2148204D87D3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OsamaTahaCenterDoctorUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8C8E7AE66D8A593BC01360C9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OsamaTahaCenterDoctorTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FE4D247AFCEB30F24E93C67B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OsamaTahaCenterDoctor-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0E80C69C222C0B220098B65D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E15132A222EB05B00C8141C /* MedicalRecordsCell.swift in Sources */,
+				0E759AE1224A708C00E08ABD /* PatientInboxGroupViewController.swift in Sources */,
+				0E111CCA2240FD69005CA724 /* ChatCellImage.swift in Sources */,
+				0E1F0F28225A296800707940 /* odooAPI.swift in Sources */,
+				0ECF91B2222FC54900DB73F1 /* CustomImageView.swift in Sources */,
+				0E80C6D6222C13A00098B65D /* LoginViewController.swift in Sources */,
+				0ED0FEA92242467E00C43E57 /* CustomButton.swift in Sources */,
+				0E1629AA223927D500183F61 /* patientVistis.swift in Sources */,
+				0EBC787C2237EBCB00E6CB73 /* helper.swift in Sources */,
 				0E80C6A6222C0B220098B65D /* ViewController.swift in Sources */,
+				0E25A7A9222D5B94008703C3 /* PatientCell.swift in Sources */,
+				0E25A79F222D404C008703C3 /* AboutAppViewController.swift in Sources */,
+				0EBE7348226364E800C2A24F /* audioCell.swift in Sources */,
+				0E01E7B52248E98500EC14B0 /* inboxCell.swift in Sources */,
+				0ED0FEAB22425FF700C43E57 /* viewDownloadedPdf.swift in Sources */,
+				0EA6735B225CCC04005ADC5E /* PatientOperation.swift in Sources */,
+				0E01E7B72248EE7300EC14B0 /* PatientInboxModel.swift in Sources */,
+				0E25A797222D3B04008703C3 /* LiveChatViewController.swift in Sources */,
+				0EDE82CB224A40F80046DCB2 /* LiveChatModel.swift in Sources */,
+				0E25A795222D2E41008703C3 /* ChatCell.swift in Sources */,
+				0E43BD5B223E51A000D28D42 /* ChatWithPatient.swift in Sources */,
+				0ECF91BB222FE3EB00DB73F1 /* MyAppointmentsViewController.swift in Sources */,
 				0E80C6A4222C0B220098B65D /* AppDelegate.swift in Sources */,
+				0E80C6DD222C155E0098B65D /* CustomView.swift in Sources */,
+				0E25A7A1222D4134008703C3 /* ChangeLanguageViewController.swift in Sources */,
+				0E25A7A7222D4B64008703C3 /* PatientViewController.swift in Sources */,
+				0ED0FEA52242366500C43E57 /* ChatCellImageTRailing.swift in Sources */,
+				0EBC787F2237F1C100E6CB73 /* Patient.swift in Sources */,
+				0E25A79D222D3E78008703C3 /* SendUsViewController.swift in Sources */,
+				0EB43774226C976300A61D90 /* pdfList.swift in Sources */,
+				0EB43776226CAFE400A61D90 /* PDFListCell.swift in Sources */,
+				0EA67357225CA6F4005ADC5E /* PatientOperationRecordsViewController.swift in Sources */,
+				0E25A799222D3B5F008703C3 /* LiveChatCell.swift in Sources */,
+				0EB43778226CB3DB00A61D90 /* DisplayPdfViewController.swift in Sources */,
+				0EBC787A2237E64200E6CB73 /* URLS.swift in Sources */,
+				0EA67359225CC012005ADC5E /* PatientOperationOdoo.swift in Sources */,
+				0E25A77F222D2195008703C3 /* TabBarController.swift in Sources */,
+				0E43BD5F223E633F00D28D42 /* Message.swift in Sources */,
+				0ECF91B4222FC5AA00DB73F1 /* MyProfileViewController.swift in Sources */,
+				0E151324222E8F3D00C8141C /* ViewPatientProfileViewController.swift in Sources */,
+				0ECF91B9222FDFB400DB73F1 /* MyProfileCellServices.swift in Sources */,
+				0E25A781222D268B008703C3 /* MoreViewController.swift in Sources */,
+				0E1629A822391D5100183F61 /* patientAppointment.swift in Sources */,
+				0E759AE3224A7C8C00E08ABD /* ChatwithPatientInGroup.swift in Sources */,
+				0E1629AC2239325700183F61 /* ListOfPdfList.swift in Sources */,
+				0E25A79B222D3CDD008703C3 /* ContactUsViewController.swift in Sources */,
+				0E80C6D9222C14850098B65D /* textFileldService.swift in Sources */,
+				0E01E7B32248E7D900EC14B0 /* PatientInboxViewController.swift in Sources */,
+				0ED0FEA72242412600C43E57 /* chatFile.swift in Sources */,
+				0E25A793222D2E04008703C3 /* ChatWithDROsama.swift in Sources */,
+				0E25A786222D276A008703C3 /* MoreTableViewCell.swift in Sources */,
+				0E151328222EA5F400C8141C /* MedicalRecordsViewController.swift in Sources */,
+				0E151326222E995700C8141C /* MyAppoinmentCell.swift in Sources */,
+				0EBC78782237E5E800E6CB73 /* Api.swift in Sources */,
 				0E80C6AC222C0B220098B65D /* OsamaTahaCenterDoctor.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,10 +794,29 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		0E25A78C222D2C27008703C3 /* More.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E25A78D222D2C27008703C3 /* Base */,
+				0EC2FEEB2254D47D000B1ABE /* ar */,
+			);
+			name = More.storyboard;
+			sourceTree = "<group>";
+		};
+		0E25A7A2222D4B04008703C3 /* Patient.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E25A7A3222D4B04008703C3 /* Base */,
+				0EC2FEE92254D47A000B1ABE /* ar */,
+			);
+			name = Patient.storyboard;
+			sourceTree = "<group>";
+		};
 		0E80C6A7222C0B220098B65D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				0E80C6A8222C0B220098B65D /* Base */,
+				0EC2FEEC2254D47F000B1ABE /* ar */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -309,8 +825,18 @@
 			isa = PBXVariantGroup;
 			children = (
 				0E80C6B0222C0B230098B65D /* Base */,
+				0EC2FEED2254D480000B1ABE /* ar */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0ECF91B5222FDEA200DB73F1 /* MyProfile.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0ECF91B6222FDEA200DB73F1 /* Base */,
+				0EC2FEEA2254D47C000B1ABE /* ar */,
+			);
+			name = MyProfile.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -320,6 +846,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -367,7 +894,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -380,6 +907,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -421,7 +949,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -432,16 +960,18 @@
 		};
 		0E80C6CC222C0B230098B65D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ED71D66D780A11506B66CF6D /* Pods-OsamaTahaCenterDoctor.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UMRQ7HKD3H;
+				DEVELOPMENT_TEAM = D7MZXW9JSU;
 				INFOPLIST_FILE = OsamaTahaCenterDoctor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = l.OsamaTahaCenterDoctor;
+				PRODUCT_BUNDLE_IDENTIFIER = "IDS-INTL.com.OsamaTahaCenterDoctor";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -450,16 +980,18 @@
 		};
 		0E80C6CD222C0B230098B65D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4FAB2A72052D8ECFD665C89C /* Pods-OsamaTahaCenterDoctor.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UMRQ7HKD3H;
+				DEVELOPMENT_TEAM = D7MZXW9JSU;
 				INFOPLIST_FILE = OsamaTahaCenterDoctor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = l.OsamaTahaCenterDoctor;
+				PRODUCT_BUNDLE_IDENTIFIER = "IDS-INTL.com.OsamaTahaCenterDoctor";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -468,11 +1000,13 @@
 		};
 		0E80C6CF222C0B230098B65D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A19A6DFC6DEF70A71BDFF25C /* Pods-OsamaTahaCenterDoctorTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UMRQ7HKD3H;
+				DEVELOPMENT_TEAM = D7MZXW9JSU;
 				INFOPLIST_FILE = OsamaTahaCenterDoctorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -481,6 +1015,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = l.OsamaTahaCenterDoctorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OsamaTahaCenterDoctor.app/OsamaTahaCenterDoctor";
@@ -489,11 +1024,13 @@
 		};
 		0E80C6D0222C0B230098B65D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1002A54A6B26A646B5FFB56B /* Pods-OsamaTahaCenterDoctorTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UMRQ7HKD3H;
+				DEVELOPMENT_TEAM = D7MZXW9JSU;
 				INFOPLIST_FILE = OsamaTahaCenterDoctorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -502,6 +1039,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = l.OsamaTahaCenterDoctorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OsamaTahaCenterDoctor.app/OsamaTahaCenterDoctor";
@@ -510,6 +1048,7 @@
 		};
 		0E80C6D2222C0B230098B65D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F2F762AD07E8816044B68872 /* Pods-OsamaTahaCenterDoctorUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -530,6 +1069,7 @@
 		};
 		0E80C6D3222C0B230098B65D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 62FAF4AE879F71C6D3900475 /* Pods-OsamaTahaCenterDoctorUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

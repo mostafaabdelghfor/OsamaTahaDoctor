@@ -1,0 +1,69 @@
+/* Class = "UILabel"; text = " Cairo Medical Park..."; ObjectID = "1Ti-Wp-Tbd"; */
+"1Ti-Wp-Tbd.text" = " Cairo Medical Park...";
+
+/* Class = "UILabel"; text = "Fees\n"; ObjectID = "2d6-LH-qHu"; */
+"2d6-LH-qHu.text" = "Fees\n";
+
+/* Class = "UITabBarItem"; title = "Patients"; ObjectID = "5dP-uD-9XW"; */
+"5dP-uD-9XW.title" = "المرضي";
+
+/* Class = "UILabel"; text = "24 Dec 2018"; ObjectID = "6qE-DH-Pd7"; */
+"6qE-DH-Pd7.text" = "24 Dec 2018";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "7gl-tK-BvX"; */
+"7gl-tK-BvX.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "user123@email.com"; ObjectID = "7Mo-sJ-N0D"; */
+"7Mo-sJ-N0D.placeholder" = "user123@email.com";
+
+/* Class = "UILabel"; text = "Satarday 15  December "; ObjectID = "CiU-SK-DUd"; */
+"CiU-SK-DUd.text" = "Satarday 15  December ";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "Di0-wL-9Cz"; */
+"Di0-wL-9Cz.text" = "اهلا";
+
+/* Class = "UILabel"; text = "01:00 PM   To   03:00 PM"; ObjectID = "FnG-XC-Wcc"; */
+"FnG-XC-Wcc.text" = "01:00 PM   To   03:00 PM";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "GHI-mg-7sY"; */
+"GHI-mg-7sY.text" = "200";
+
+/* Class = "UILabel"; text = "Date & Time\n"; ObjectID = "k9V-nx-snr"; */
+"k9V-nx-snr.text" = "التاريخ و الوقت";
+
+/* Class = "UILabel"; text = "Adjustable gastric band"; ObjectID = "Lrx-EP-j9U"; */
+"Lrx-EP-j9U.text" = "Adjustable gastric band";
+
+/* Class = "UILabel"; text = "New Cairo, 5th Settlement"; ObjectID = "m4H-zT-A1f"; */
+"m4H-zT-A1f.text" = "New Cairo, 5th Settlement";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ofH-Hx-0NP"; */
+"ofH-Hx-0NP.placeholder" = "password";
+
+/* Class = "UILabel"; text = "USERNAME / EMAIL"; ObjectID = "TRZ-Jj-y8b"; */
+"TRZ-Jj-y8b.text" = "اسم المستخدم /البريد الالكتروني ";
+
+/* Class = "UITabBarItem"; title = "Appointments"; ObjectID = "U3V-Yo-9fq"; */
+"U3V-Yo-9fq.title" = "مواعيدي";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "vEM-hG-KWm"; */
+"vEM-hG-KWm.normalTitle" = "دخول";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "Wdw-b0-IoV"; */
+"Wdw-b0-IoV.title" = "المزيد";
+
+/* Class = "UILabel"; text = "Service\n"; ObjectID = "WuF-o6-PJy"; */
+"WuF-o6-PJy.text" = "خدمات\n";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "xcu-EF-c5S"; */
+"xcu-EF-c5S.title" = "ماده";
+
+/* Class = "UILabel"; text = "Please, Login to your account"; ObjectID = "XCy-2p-1VS"; */
+"XCy-2p-1VS.text" = "من فضلك سجل الدخول";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "XKG-YI-4tb"; */
+"XKG-YI-4tb.text" = "الموقع";
+
+/* Class = "UILabel"; text = "My Appointments"; ObjectID = "ZwF-0C-sw5"; */
+"ZwF-0C-sw5.text" = "مواعيدي";
+

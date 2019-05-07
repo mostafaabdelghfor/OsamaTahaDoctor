@@ -1,0 +1,57 @@
+/* Class = "UITextView"; text = "Bariatric Surgery Consultant, Sahlgrenska Hospital, Gothenburg In Sweden. He Is The Chief Of Surgery Clinics & Establisher ….. \nUnit, Rashid Hospital, Dubai. Member Of The International Federation For The Surgery Of Obesity& Metabolic Disorders (ifso) Member Of Sweden Obesity Surgery And Vice President Of Egyptian Society Of Metabolic &bariatric Surgery (esbs)"; ObjectID = "BjE-R7-JZl"; */
+"BjE-R7-JZl.text" = "Bariatric Surgery Consultant, Sahlgrenska Hospital, Gothenburg In Sweden. He Is The Chief Of Surgery Clinics & Establisher ….. \nUnit, Rashid Hospital, Dubai. Member Of The International Federation For The Surgery Of Obesity& Metabolic Disorders (ifso) Member Of Sweden Obesity Surgery And Vice President Of Egyptian Society Of Metabolic &bariatric Surgery (esbs)";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "c06-2k-z9I"; */
+"c06-2k-z9I.text" = "حسابي";
+
+/* Class = "UILabel"; text = "Account info"; ObjectID = "fd4-if-0qY"; */
+"fd4-if-0qY.text" = "معلومات الحساب";
+
+/* Class = "UILabel"; text = "01021333826"; ObjectID = "Gdz-y9-fK1"; */
+"Gdz-y9-fK1.text" = "01021333826";
+
+/* Class = "UILabel"; text = "mostafa abdel"; ObjectID = "GNv-Dp-HIn"; */
+"GNv-Dp-HIn.text" = "mostafa abdel";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "HBX-FA-sxP"; */
+"HBX-FA-sxP.text" = "كلمه السر";
+
+/* Class = "UILabel"; text = "Personal info"; ObjectID = "ifn-yh-gP3"; */
+"ifn-yh-gP3.text" = "معلومات شخصيه";
+
+/* Class = "UILabel"; text = "SERVICES"; ObjectID = "Igl-5k-46O"; */
+"Igl-5k-46O.text" = "الخدمات";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "izp-bV-a8T"; */
+"izp-bV-a8T.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Change your email Password"; ObjectID = "LDs-Pp-6Jh"; */
+"LDs-Pp-6Jh.text" = "غير كلمه السر";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "LzO-zm-ZPI"; */
+"LzO-zm-ZPI.normalTitle" = "خروج";
+
+/* Class = "UILabel"; text = "Email Address\n"; ObjectID = "mmd-gJ-bC7"; */
+"mmd-gJ-bC7.text" = "البريد الالكتروني\n";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "ofW-I0-9YJ"; */
+"ofW-I0-9YJ.text" = "الاسم بالكامل";
+
+/* Class = "UIButton"; normalTitle = "Change image"; ObjectID = "qYm-jd-S1K"; */
+"qYm-jd-S1K.normalTitle" = "غير الصوره";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "u0B-8f-vJA"; */
+"u0B-8f-vJA.title" = "حسابي";
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "vkX-BI-oAH"; */
+"vkX-BI-oAH.text" = "Bio";
+
+/* Class = "UILabel"; text = "Change your email address"; ObjectID = "vnF-BB-7S7"; */
+"vnF-BB-7S7.text" = "غير البريد الالكتروني";
+
+/* Class = "UIBarButtonItem"; title = "            "; ObjectID = "ydZ-Ke-Roy"; */
+"ydZ-Ke-Roy.title" = "            ";
+
+/* Class = "UILabel"; text = "Adjustable gastric band\n"; ObjectID = "zXO-jE-0v0"; */
+"zXO-jE-0v0.text" = "Adjustable gastric band\n";
+

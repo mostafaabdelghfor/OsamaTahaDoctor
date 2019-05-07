@@ -1,0 +1,159 @@
+/* Class = "UILabel"; text = "Choose your preferred language"; ObjectID = "2Vp-bO-Pwx"; */
+"2Vp-bO-Pwx.text" = "اختار لغتك المفضله";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3rj-On-hay"; */
+"3rj-On-hay.text" = "Label";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "3Tw-Tq-Lcf"; */
+"3Tw-Tq-Lcf.text" = "انجليزي";
+
+/* Class = "UILabel"; text = "Find Us"; ObjectID = "4zm-lz-4qb"; */
+"4zm-lz-4qb.text" = "تجدنا";
+
+/* Class = "UITextField"; placeholder = "Your message here"; ObjectID = "5n5-My-qub"; */
+"5n5-My-qub.placeholder" = "رسالتك هنا";
+
+/* Class = "UIBarButtonItem"; title = "       "; ObjectID = "6iq-ux-VsJ"; */
+"6iq-ux-VsJ.title" = "       ";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "6ND-6Q-5Xi"; */
+"6ND-6Q-5Xi.title" = "المزيد";
+
+/* Class = "UILabel"; text = "0111 662 5540"; ObjectID = "6yb-kl-o4e"; */
+"6yb-kl-o4e.text" = "0111 662 5540";
+
+/* Class = "UILabel"; text = "More Options"; ObjectID = "90W-Vo-p7e"; */
+"90W-Vo-p7e.text" = "المزيد من الاخيارات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aww-aM-C0N"; */
+"Aww-aM-C0N.text" = "Label";
+
+/* Class = "UILabel"; text = "Lasr Meesage"; ObjectID = "BBS-fJ-JXY"; */
+"BBS-fJ-JXY.text" = "اخر رساله";
+
+/* Class = "UILabel"; text = "App Language"; ObjectID = "bSs-aj-ZRu"; */
+"bSs-aj-ZRu.text" = "لغه التطبيق";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bwi-AY-QfP"; */
+"Bwi-AY-QfP.text" = "Label";
+
+/* Class = "UILabel"; text = "App Language"; ObjectID = "cfA-55-8cO"; */
+"cfA-55-8cO.text" = "لغه التطبيق";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "CsX-OW-6hO"; */
+"CsX-OW-6hO.text" = "الرساله";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "Dgo-zX-aQn"; */
+"Dgo-zX-aQn.text" = "عربي";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "Fgs-ys-S4F"; */
+"Fgs-ys-S4F.text" = "تاريخ";
+
+/* Class = "UIButton"; normalTitle = "  Download File  "; ObjectID = "GKI-On-QfU"; */
+"GKI-On-QfU.normalTitle" = "  حمل المجلد  ";
+
+/* Class = "UILabel"; text = "Lasr Meesage"; ObjectID = "gPh-k1-mAe"; */
+"gPh-k1-mAe.text" = "اخر رساله";
+
+/* Class = "UILabel"; text = "Patient Name Here"; ObjectID = "hL2-Qs-DGs"; */
+"hL2-Qs-DGs.text" = "اسم المريض هنا";
+
+/* Class = "UITextField"; placeholder = "Username Here"; ObjectID = "hLN-0s-lDq"; */
+"hLN-0s-lDq.placeholder" = "اسم المستخدم هنا";
+
+/* Class = "UILabel"; text = "Cairo Medical Park, Entrance 2, Clinic G03, Cairo Governorate"; ObjectID = "I1n-07-T1l"; */
+"I1n-07-T1l.text" = "Cairo Medical Park, Entrance 2, Clinic G03, Cairo Governorate";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "IKP-XS-W0R"; */
+"IKP-XS-W0R.normalTitle" = "ارسل رساله";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "iWC-fr-Xak"; */
+"iWC-fr-Xak.normalTitle" = "غير";
+
+/* Class = "UILabel"; text = "Prof. Dr. Osama Taha - Obesity & Plastic Surgery Consultant ( Mohandessin )"; ObjectID = "iWJ-qg-lQn"; */
+"iWJ-qg-lQn.text" = "Prof. Dr. Osama Taha - Obesity & Plastic Surgery Consultant ( Mohandessin )";
+
+/* Class = "UILabel"; text = "Uploading.........."; ObjectID = "iYU-u7-lCL"; */
+"iYU-u7-lCL.text" = "تحميل";
+
+/* Class = "UILabel"; text = "Patient Name Here"; ObjectID = "j7h-KQ-q4j"; */
+"j7h-KQ-q4j.text" = "اسم المريض هنا";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "jSK-lC-VoU"; */
+"jSK-lC-VoU.text" = "انجليزي";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "keM-f5-tr7"; */
+"keM-f5-tr7.text" = "تاريخ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "koG-Jg-VId"; */
+"koG-Jg-VId.text" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "LbU-3o-hXp"; */
+"LbU-3o-hXp.text" = "عربي";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "lGg-eQ-kiZ"; */
+"lGg-eQ-kiZ.text" = "اسم";
+
+/* Class = "UIBarButtonItem"; title = "          "; ObjectID = "Lpk-7N-AKE"; */
+"Lpk-7N-AKE.title" = "          ";
+
+/* Class = "UILabel"; text = "Label LabelLabel Label Label Label el Label Label Label Label el Label Label Label Label el  Label Label el "; ObjectID = "m3j-9H-lD2"; */
+"m3j-9H-lD2.text" = "Label LabelLabel Label Label Label el Label Label Label Label el Label Label Label Label el  Label Label el ";
+
+/* Class = "UILabel"; text = "Prof. Dr. Osama Taha - Obesity & Plastic Surgery Consultant ( 5th Settlement )"; ObjectID = "m6r-wk-865"; */
+"m6r-wk-865.text" = "Prof. Dr. Osama Taha - Obesity & Plastic Surgery Consultant ( 5th Settlement )";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nrf-8L-Seu"; */
+"nrf-8L-Seu.text" = "Label";
+
+/* Class = "UILabel"; text = "Contact info."; ObjectID = "O1n-w6-dLV"; */
+"O1n-w6-dLV.text" = "معلومات الاتصال";
+
+/* Class = "UILabel"; text = "Please fill in the form below to contact us,\nWe will get back to you as soon as possible"; ObjectID = "OJD-Tj-CzN"; */
+"OJD-Tj-CzN.text" = "Please fill in the form below to contact us,\nWe will get back to you as soon as possible";
+
+/* Class = "UILabel"; text = "Technical Support"; ObjectID = "ooH-Go-jqP"; */
+"ooH-Go-jqP.text" = "Technical Support";
+
+/* Class = "UIBarButtonItem"; title = "      "; ObjectID = "OZA-rr-ox2"; */
+"OZA-rr-ox2.title" = "      ";
+
+/* Class = "UIButton"; normalTitle = " Download File "; ObjectID = "PEE-k4-DrO"; */
+"PEE-k4-DrO.normalTitle" = " حمل المجلد ";
+
+/* Class = "UITextField"; placeholder = "Email Here"; ObjectID = "PqE-bH-mOn"; */
+"PqE-bH-mOn.placeholder" = "البريد الالكتروني هنا";
+
+/* Class = "UIBarButtonItem"; title = "          "; ObjectID = "TxH-WK-6Bh"; */
+"TxH-WK-6Bh.title" = "          ";
+
+/* Class = "UILabel"; text = "https://www.osama-taha.com"; ObjectID = "UU0-Xj-1W9"; */
+"UU0-Xj-1W9.text" = "https://www.osama-taha.com";
+
+/* Class = "UITextView"; text = "qweqwesdfsdfds"; ObjectID = "VhZ-4L-ASN"; */
+"VhZ-4L-ASN.text" = "qweqwesdfsdfds";
+
+/* Class = "UILabel"; text = "GET IN TOUCH"; ObjectID = "W3H-VT-ry8"; */
+"W3H-VT-ry8.text" = "GET IN TOUCH";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "WR5-Im-SWk"; */
+"WR5-Im-SWk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Email Address\n"; ObjectID = "X7x-it-orp"; */
+"X7x-it-orp.text" = "البريد الالكتروني\n";
+
+/* Class = "UILabel"; text = "90 Mohi Eddin Abou El Ezz St., Dokki, opposite Gate 2 Fishing Club, Giza "; ObjectID = "xbD-wG-YED"; */
+"xbD-wG-YED.text" = "90 Mohi Eddin Abou El Ezz St., Dokki, opposite Gate 2 Fishing Club, Giza ";
+
+/* Class = "UILabel"; text = "0111 662 5540"; ObjectID = "Ynw-bh-Rci"; */
+"Ynw-bh-Rci.text" = "0111 662 5540";
+
+/* Class = "UILabel"; text = "Choose your preferred language"; ObjectID = "Yo2-KG-Bsu"; */
+"Yo2-KG-Bsu.text" = "اختار لعتك المفضله";
+
+/* Class = "UILabel"; text = "ceo@osama-taha.com\n"; ObjectID = "ZA8-lc-EkM"; */
+"ZA8-lc-EkM.text" = "ceo@osama-taha.com\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZNr-OB-A4r"; */
+"ZNr-OB-A4r.text" = "Label";
+

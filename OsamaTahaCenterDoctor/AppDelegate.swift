@@ -8,7 +8,9 @@
 
 import UIKit
 import CoreData
-
+import Firebase
+import IQKeyboardManagerSwift
+import MOLH
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -16,7 +18,34 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+//
+//        IQKeyboardManager.shared.disabledToolbarClasses.add(ChatWithPatient.self)
+//        IQKeyboardManager.shared.disabledDistanceHandlingClasses.add(ChatWithPatient.self)
+        IQKeyboardManager.shared.enable = true
+
+//        
+//        IQKeyboardManager.shared.disabledToolbarClasses.append(ChatWithPatient.self)
+//        IQKeyboardManager.shared.disabledDistanceHandlingClasses.append(ChatWithPatient.self)
+        
+        MOLHLanguage.setDefaultLanguage("ar")
+        
+        
+        MOLH.shared.activate(false)
+        
+        if let token = Messaging.messaging().fcmToken{
+            print(token, "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+            
+            helper.saveDeviceToken(token: token)
+        }
+
+        FirebaseApp.configure()
+
+     
+        
+//        IQKeyboardManager.shared.enable = true
+//        IQKeyboardManager.shared.enableAutoToolbar = true
+//        IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+//        IQKeyboardManager.shared.toolbarDoneBarButtonItemText = "Pronto"
         return true
     }
 

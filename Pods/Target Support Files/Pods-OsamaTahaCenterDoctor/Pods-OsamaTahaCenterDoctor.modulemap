@@ -1,0 +1,6 @@
+framework module Pods_OsamaTahaCenterDoctor {
+  umbrella header "Pods-OsamaTahaCenterDoctor-umbrella.h"
+
+  export *
+  module * { export * }
+}
